@@ -1,25 +1,45 @@
-# Survey of Large Language Models in Mental Health Disorder Detection on Social Media
+**Leveraging Large Language Models for Mental Health Detection**
 
-This repository provides a comprehensive overview of the application of Large Language Models (LLMs) in detecting mental health disorders through social media analysis.
+This repository explores the significant potential of Large Language Models (LLMs) in detecting and addressing mental health issues using social media data.
 
-## Overview
+**Overview**
 
-Mental health disorders are a growing concern globally. Social media platforms offer a wealth of data that can be analyzed to detect signs of mental health issues. LLMs, with their advanced natural language processing capabilities, have shown promise in this domain.
+Mental health disorders significantly impact global well-being and productivity. Social media platforms, rich in user-generated content, provide invaluable data to identify mental health disorders early. This project surveys and evaluates how LLMs can harness this data to effectively detect mental health issues.
 
-## Key Components
+**Objectives**
 
-- **Applications of LLMs**: Text classification, sentiment analysis, and topic modeling.
-- **Datasets Reviewed**: CLPsych, Reddit Mental Health datasets, Twitter-based corpora.
-- **Evaluation Metrics**: Accuracy, precision, recall, F1-score, AUC-ROC.
-- **Challenges**: Data privacy, model bias, generalizability.
+- Understand the role and capabilities of LLMs (GPT series, LLaMA, DeepSeek).
 
-## Future Directions
+- Analyze mental disorders categorized as Emotional Internalization, Psychotic, and Externalizing.
 
-- Development of ethical guidelines for data usage.
-- Enhancing model transparency and explainability.
-- Creating more diverse and representative datasets.
+- Evaluate the current state of research, datasets, and metrics in mental health detection.
+
+- Identify future directions and challenges in applying LLMs for mental health detection.
+
+
+**Case Studies:**
+
+- Depression and Suicide Risk Detection
+
+- Psychotic Disorder Detection (Schizophrenia)
+
+- Externalizing Disorder Detection
+
+**Datasets and Evaluation Metrics**: Overview of datasets (Reddit, Twitter) and evaluation metrics.
+
+**Future Directions**: Integration with personalized interventions, explainable data synthesis, and addressing privacy concerns.
+
+## Key Contributions
+
+Comprehensive review of LLM applications in mental health.
+
+Insightful analysis of classification strategies and model evaluation.
+
+Identification of research gaps and future directions.
 
 ## Reference
+Medium Article : https://medium.com/@aishly.manglani/leveraging-large-language-models-for-mental-health-detection-9505591052d5
 
-For a detailed survey, refer to the paper: [A Survey of Large Language Models in Mental Health Disorder Detection on Social Media](https://arxiv.org/abs/2504.02800)
+
+For a detailed survey, refer to the paper:(https://arxiv.org/pdf/2504.02800)
 
