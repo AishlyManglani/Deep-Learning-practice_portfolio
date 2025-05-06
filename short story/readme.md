@@ -44,5 +44,8 @@ Medium Article : https://medium.com/@aishly.manglani/leveraging-large-language-m
 Slideshare Presentation: https://www.slideshare.net/slideshow/leveraging-large-language-models-for-mental-health-detection/278726996
 
 
+Video Explanation: https://youtu.be/ZsreUsAGXLE
+
+
 For a detailed survey, refer to the paper:(https://arxiv.org/pdf/2504.02800)
 
